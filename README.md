@@ -1,5 +1,10 @@
-#MAIN HEADER
+# MAIN HEADER
 
-##SECOND HEADER
+## SECOND HEADER
 
-###THIRD HEADER 
+### THIRD HEADER 
+
+
+**This is bold text**	
+*This text is italicized*
+
